@@ -32,7 +32,7 @@ export default function ServicesSection() {
           <ServicesSectionItem
             icon={<MdCode />}
             title="Frontend Developer"
-            desc="I develope website using react as my frontend"
+            desc="I develop website using react as my frontend"
           />
         </div>
       </div>
