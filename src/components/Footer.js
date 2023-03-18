@@ -95,14 +95,7 @@ export default function Footer() {
           <FooterCol
             heading="Contact Info"
             links={[
-              {
-                title: '+918141731254',
-                path: 'tel:+918141731254',
-              },
-              {
-                title: 'parikhsmit786@gmail.com',
-                path: 'mailto:parikhsmit786@gmail.com',
-              },
+         
               {
                 title: 'Pune, Maharashtra',
                 path: 'http://google.com/maps',
